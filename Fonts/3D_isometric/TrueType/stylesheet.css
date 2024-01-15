@@ -1,0 +1,13 @@
+@font-face {
+    font-family: '3D Isometric';
+    /* src: url('TheBarattieRegular.eot'); */
+    src: local('3D Isometric'), local('TheBarattieRegular'),
+        url('TheBarattieRegular.eot?#iefix') format('embedded-opentype'),
+        url('TheBarattieRegular.woff2') format('woff2'),
+        url('TheBarattieRegular.woff') format('woff'),
+        url('TheBarattieRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
