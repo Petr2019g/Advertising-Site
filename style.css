@@ -162,6 +162,7 @@ color:goldenrod;
 .com__name {
   /* align-items: center; */
  /* text-align: center; */
+ font-size: 30px;
 display: inline-block;
 margin-left: 10px;
 color:chartreuse
