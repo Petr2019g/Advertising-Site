@@ -89,8 +89,15 @@ color:goldenrod;
  border: 3px solid black;
  opacity:1;
  box-shadow: 10px 10px 10px 3px rgb(12, 19, 19);
-
+ overflow: hidden;
+ overflow-y: scroll;
+ scrollbar-width: 0;
 }
+
+.main__block::-webkit-scrollbar { 
+  width: 0; 
+}
+
 
 .text__block-fat {
   position: relative;
